@@ -76,5 +76,3 @@ print(np.exp(a))  #It gives the exponential value for each element
 print(np.log(a))    #log with base e
 
 print(np.log10(a))  #log with base 10
-
-#--------*---------*----------*----------*---------*-------*-------*--------*--------*-----*
